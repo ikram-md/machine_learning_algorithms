@@ -1,4 +1,5 @@
-# supervised_learning
+# :robot: Machine learning algorithms & practice :robot:
+
 The following repo contains supervised machine learning algorithms (Linear & logistic regression ).
 - **Gradient descent** is used as the optimization algorithm.
 - All the data sets has been imported from [Kaggle](https://www.kaggle.com/)
